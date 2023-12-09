@@ -42,3 +42,6 @@
 
 # Swift Package Manager build directory
 /.build
+
+#copy code
+/src
